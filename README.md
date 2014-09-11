@@ -1,7 +1,9 @@
-Maria And The Math Faries
+Maria And The Math Fairies
 =====================
 
-This is just a repo to hold my book aimed at bright 12-13 year old girls learning algebra, "Maria and the Math Fairies".
+This is just a repo to hold my book aimed at bright 12-13 year old
+girls learning algebra,
+["Maria and the Math Fairies"](http://github.com/RobertLRead/MariaAndTheMathFairies/blob/master/MariaAndTheMathFairies.pdf?raw=true).
 
 I set out to write the "best" book I could---by which I mean a book that would teach as much as possible.  It is not
 easy to make algebra exciting---but it is important.
