@@ -14,5 +14,5 @@ WARNING: This book is squarely aimed at young girls.  However, it does have crip
 and sorcery, as well as something far worse---teens being cruel to
 each other.
 
-NOTE:  My email address is wrong in the manuscript, I now use &lt;read.robert@gmail.com%gt;.
+NOTE:  My email address is wrong in the manuscript, I now use &lt;read.robert@gmail.com&gt;.
 
